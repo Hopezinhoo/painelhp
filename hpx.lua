@@ -49,7 +49,7 @@ Converted["_configUS"].ZIndex = 10
 Converted["_configUS"].Name = "configUS"
 Converted["_configUS"].Parent = Converted["_mainFrame"]
 
-Converted["_ImageLabel"].ImageContent = Content{SourceType=Uri, Uri=rbxasset://textures/ui/GuiImagePlaceholder.png}
+Converted["_ImageLabel"].Image = "rbxasset://textures/ui/GuiImagePlaceholder.png"
 Converted["_ImageLabel"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_ImageLabel"].BorderColor3 = Color3.fromRGB(245.00001579523087, 197.00001865625381, 255)
 Converted["_ImageLabel"].BorderSizePixel = 4
