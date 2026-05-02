@@ -106,7 +106,7 @@ Converted["_TextButton"].Position = UDim2.new(2.62941146, 0, -1.08000004, 0)
 Converted["_TextButton"].Size = UDim2.new(0, 232, 0, 26)
 Converted["_TextButton"].Parent = Converted["_movi"]
 
-Converted["_BindButton"].Font = Enum.Font.Unknown
+Converted["_BindButton"].Font = Enum.Font.LuckiestGuy
 Converted["_BindButton"].Text = ""
 Converted["_BindButton"].TextColor3 = Color3.fromRGB(245.00001579523087, 197.00001865625381, 255)
 Converted["_BindButton"].TextSize = 14
@@ -128,7 +128,7 @@ Converted["_menu"].Size = UDim2.new(0, 697, 0, 515)
 Converted["_menu"].Name = "menu"
 Converted["_menu"].Parent = Converted["_mainFrame"]
 
-Converted["_MoviButton"].Font = Enum.Font.Unknown
+Converted["_MoviButton"].Font = Enum.Font.LuckiestGuy
 Converted["_MoviButton"].Text = "movimento"
 Converted["_MoviButton"].TextColor3 = Color3.fromRGB(255, 170.0000050663948, 255)
 Converted["_MoviButton"].TextSize = 20
