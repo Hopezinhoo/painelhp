@@ -95,6 +95,7 @@ Converted["_EspButton"].Position = UDim2.new(1.12941146, 0, -1.10000062, 0)
 Converted["_EspButton"].Size = UDim2.new(0, 182, 0, 26)
 Converted["_EspButton"].Name = "EspButton"
 Converted["_EspButton"].Parent = Converted["_movi"]
+Converted["_EspButton"].TextScaled = true
 
 Converted["_TextButton"].Font = Enum.Font.SourceSans
 Converted["_TextButton"].TextColor3 = Color3.fromRGB(0, 0, 0)
@@ -118,6 +119,7 @@ Converted["_BindButton"].Position = UDim2.new(2.29999971, 0, -1.10000002, 0)
 Converted["_BindButton"].Size = UDim2.new(0, 32, 0, 27)
 Converted["_BindButton"].Name = "BindButton"
 Converted["_BindButton"].Parent = Converted["_movi"]
+Converted["_BindButton"].TextScaled = true
 
 Converted["_menu"].BackgroundColor3 = Color3.fromRGB(22.000000588595867, 1.0000000591389835, 18.000000827014446)
 Converted["_menu"].BorderColor3 = Color3.fromRGB(252.00001537799835, 216.00001752376556, 255)
@@ -138,10 +140,12 @@ Converted["_MoviButton"].BorderColor3 = Color3.fromRGB(245.00000059604645, 197.0
 Converted["_MoviButton"].BorderMode = Enum.BorderMode.Inset
 Converted["_MoviButton"].BorderSizePixel = 0
 Converted["_MoviButton"].LayoutOrder = 2
-Converted["_MoviButton"].Position = UDim2.new(0.00358680054, 0, 0.101941749, 0)
-Converted["_MoviButton"].Size = UDim2.new(0, 170, 0, 50)
+Converted["_MoviButton"].Position = UDim2.new(0, 0, 0, 65)
+Converted["_MoviButton"].Size = UDim2.new(0, 170, 0, 45)
 Converted["_MoviButton"].Name = "MoviButton"
 Converted["_MoviButton"].Parent = Converted["_menu"]
+Converted["_MoviButton"].TextScaled = true
+
 
 Converted["_ConfigButton"].Font = Enum.Font.Unknown
 Converted["_ConfigButton"].Text = "CONFIG"
@@ -153,10 +157,11 @@ Converted["_ConfigButton"].BorderColor3 = Color3.fromRGB(245.00001579523087, 197
 Converted["_ConfigButton"].BorderMode = Enum.BorderMode.Inset
 Converted["_ConfigButton"].BorderSizePixel = 0
 Converted["_ConfigButton"].LayoutOrder = 1
-Converted["_ConfigButton"].Position = UDim2.new(0.000717360119, 0, 0.115533978, 0)
-Converted["_ConfigButton"].Size = UDim2.new(0, 170, 0, 50)
+Converted["_ConfigButton"].Position = UDim2.new(0, 0, 0, 15)
+Converted["_ConfigButton"].Size = UDim2.new(0, 170, 0, 45)
 Converted["_ConfigButton"].Name = "ConfigButton"
 Converted["_ConfigButton"].Parent = Converted["_menu"]
+Converted["_ConfigButton"].TextScaled = true
 
 Converted["_UIListLayout"].SortOrder = Enum.SortOrder.LayoutOrder
 
