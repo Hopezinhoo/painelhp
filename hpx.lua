@@ -28,7 +28,7 @@ local Converted = {
 -- Properties:
 
 Converted["_ScreenGui"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-Converted["_ScreenGui"].Parent = game:GetService("CoreGui")
+Converted["_ScreenGui"].Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
 
 Converted["_mainFrame"].BackgroundColor3 = Color3.fromRGB(1.0000000591389835, 5.000000176951289, 29.000002071261406)
 Converted["_mainFrame"].BorderColor3 = Color3.fromRGB(0, 255, 0)
@@ -159,7 +159,7 @@ Converted["_ConfigButton"].Name = "ConfigButton"
 Converted["_ConfigButton"].Parent = Converted["_menu"]
 
 Converted["_UIListLayout"].SortOrder = Enum.SortOrder.LayoutOrder
-Converted["_UIListLayout"].Parent = Converted["_menu"]
+
 
 Converted["_divisor"].BackgroundColor3 = Color3.fromRGB(247.00001567602158, 217.00001746416092, 255)
 Converted["_divisor"].BorderColor3 = Color3.fromRGB(245.00001579523087, 225.00001698732376, 255)
